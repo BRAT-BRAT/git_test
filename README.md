@@ -1,2 +1,1 @@
-# git_test
-First git test
+This is Lakshya first git project!
